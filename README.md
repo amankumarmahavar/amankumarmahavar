@@ -1,11 +1,11 @@
 ### Hi there 👋
-# 💫 About Me:
-    🌱 I’m currently learning Mobile UI and Databases.
-    👯 I’m looking to collaborate on Flutter projects.
-    💬 Ask me about Flutter, Dart, Android and mobile development.
-    📫 How to reach me amankumarmahavar@gmail.com.
-    📄 Know about my experiences https://drive.google.com/file/d/1WgZLH6Ee6TOpZ7QSLt0fC2SFpC_TC17M/view?usp=drive_link
+# 💫 About Me: 
 
+🌱 **I’m currently learning:**<br> Mobile UI and Databases. <br><br>
+    👯 **I’m looking to collaborate on:**<br> Flutter projects.<br><br>
+    💬 **Ask me about:**<br> Flutter, Dart, Android and mobile development.<br><br>
+    📫 **How to reach me:**<br> amankumarmahavar@gmail.com<br><br>
+    📄 **Know about my experiences:**<br> https://drive.google.com/file/d/1WgZLH6Ee6TOpZ7QSLt0fC2SFpC_TC17M/view?usp=drive_link<br><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aman-mahavar) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/amanmahavar1310) 
